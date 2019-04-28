@@ -113,10 +113,8 @@ console.log ("A " + colorCar2 + " car");
      return message;
  };
  returnedMessage2 = vehicle2(color, 4 , age);
- 
- //10: Advertisement >> to do
- 
- //11: One more vehicle >> to do
+ //10:
+// 11:
  
  //12: Empty object
  let emptyObject = {
